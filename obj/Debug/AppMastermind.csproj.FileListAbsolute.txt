@@ -1,0 +1,6 @@
+c:\users\otoniel sena\documents\visual studio 2015\Projects\AppMastermind\AppMastermind\bin\Debug\AppMastermind.exe.config
+c:\users\otoniel sena\documents\visual studio 2015\Projects\AppMastermind\AppMastermind\bin\Debug\AppMastermind.exe
+c:\users\otoniel sena\documents\visual studio 2015\Projects\AppMastermind\AppMastermind\bin\Debug\AppMastermind.pdb
+c:\users\otoniel sena\documents\visual studio 2015\Projects\AppMastermind\AppMastermind\obj\Debug\AppMastermind.csprojResolveAssemblyReference.cache
+c:\users\otoniel sena\documents\visual studio 2015\Projects\AppMastermind\AppMastermind\obj\Debug\AppMastermind.exe
+c:\users\otoniel sena\documents\visual studio 2015\Projects\AppMastermind\AppMastermind\obj\Debug\AppMastermind.pdb
