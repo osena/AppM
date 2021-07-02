@@ -24,10 +24,13 @@ namespace AppMastermind.Resources
                 for (int e = 0; e < code.Count; e++)
                 {
                     if (guess[i].Equals(code[e]) && i.Equals(e))
+                    {
                         listResult.Add(ResultPeg.Black);
-
+                    }
                     else if (guess[i].Equals(code[e]))
+                    {
                         listResult.Add(ResultPeg.White);
+                    }
                 }
             }
             return listResult;
