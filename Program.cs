@@ -33,7 +33,15 @@ namespace AppMastermind
 
             for (int i = 0; i < listResultPeg.Count; i++)
             {
-                Console.Write("{0}", listResultPeg[i].ToString());
+                if (i == 0)
+                {
+                    Console.Write("{0}", listResultPeg[i].ToString());
+
+                } else
+                {
+                    Console.Write(", {0}", listResultPeg[i].ToString());
+
+                }
             }
 
             Console.ReadLine();
